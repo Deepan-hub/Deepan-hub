@@ -11,4 +11,3 @@ React · JavaScript · HTML · CSS · Tailwind · Next.js
 - CodeNovea
 
 ## 📊 GitHub Stats
-(auto-generated stats card)
